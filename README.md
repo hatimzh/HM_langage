@@ -10,7 +10,9 @@ Compilateur de notre nouvelle langage de programmation (Langage HM).
 </ol>
 
 # Demo :
-
+<video width="320" height="240" controls>
+      <source src="./demo/HM Compiler.mp4" type=video/mp4>
+    </video>
 
 # Créer par :
 
